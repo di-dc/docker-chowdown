@@ -2,6 +2,8 @@
 
 Docker image with `chowdown` in it -- see [clarklab/chowdown](https://github.com/clarklab/chowdown) for more info.
 
+NOTE: it doesn't actually work yet.
+
 ## Usage
 
 Then you can run a new container, setting port = 4000:
